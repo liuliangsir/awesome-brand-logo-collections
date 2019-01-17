@@ -1,0 +1,35 @@
+{
+  "name": "awesome-brand-logo-collection",
+  "description": "A versatile brand logo collection of CSS Code Snippets",
+  "version": "1.0.0",
+  "author": "liuliang (liuliang@w3ctech.com)",
+  "scripts": {
+    "clean": "del docs/.vuepress/dist",
+    "docs:dev": "vuepress dev docs",
+    "predocs:build": "npm run clean",
+    "docs:build": "vuepress build docs",
+    "docs:theme:eject": "vuepress eject docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liuliangsir/awesome-brand-logo-collections.git"
+  },
+  "keywords": [
+    "css",
+    "snippets",
+    "list"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/liuliangsir/awesome-brand-logo-collections/issues"
+  },
+  "homepage": "https://github.com/liuliangsir/awesome-brand-logo-collections#readme",
+  "dependencies": {
+    "markdown-it-container": "^2.0.0"
+  },
+  "devDependencies": {
+    "del-cli": "^1.1.0",
+    "npx": "^10.2.0",
+    "vuepress": "^1.0.0-alpha.39"
+  }
+}

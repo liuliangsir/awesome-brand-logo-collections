@@ -1,0 +1,22 @@
+# Created by https://www.gitignore.io/api/vuejs
+# Edit at https://www.gitignore.io/?templates=vuejs
+
+### Vuejs ###
+node_modules
+.DS_Store
+
+# End of https://www.gitignore.io/api/vuejs
+
+# Created by https://www.gitignore.io/api/vue
+# Edit at https://www.gitignore.io/?templates=vue
+
+### Vue ###
+
+# TODO: where does this rule come from?
+docs/_book
+docs/.vuepress/dist
+
+# TODO: where does this rule come from?
+test/
+
+# End of https://www.gitignore.io/api/vue
