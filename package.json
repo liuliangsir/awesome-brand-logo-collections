@@ -30,6 +30,6 @@
   "devDependencies": {
     "del-cli": "^1.1.0",
     "npx": "^10.2.0",
-    "vuepress": "^1.0.0-alpha.39"
+    "vuepress": "^1.0.0-alpha.42"
   }
 }
