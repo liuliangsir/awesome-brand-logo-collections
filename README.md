@@ -1,1 +1,1 @@
-# awesome-brand-logo-collection
+# awesome-brand-logo-collections
